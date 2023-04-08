@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none; 
+}
+
+.conteiner{
+
+    width: 100vw;
+    height: 100vh;
+    background-color: #4F696A;
+    padding-top: 50px;
+
+}
+
+.item{
+
+    width: 400px;
+    height: 450px;
+    text-align: center;
+    color: white;
+    margin-left: 550px;
+    border: 2px solid #00e2e2;
+    background-color: #102020;
+}
+
+.img{
+    width:125px;
+    height: 150px;
+    margin-top: 70px;
+}
+.p1{
+   font-size: 8px;
+}
+.p2{
+    font-size: 20px;
+    color: white;
+    font-family: unset;
+}
+.h1{
+     font-family: unset;
+}
